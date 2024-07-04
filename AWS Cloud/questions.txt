@@ -1,0 +1,190 @@
+O que é a AWS?|Uma plataforma de jogos|Um serviço de email|Uma plataforma de computação em nuvem|Um sistema operacional|2
+Qual serviço da AWS é usado para armazenar objetos?|Amazon RDS|Amazon S3|Amazon EC2|AWS Lambda|1
+O que é Amazon EC2?|Um serviço de banco de dados|Um serviço de armazenamento|Um serviço de computação|Um serviço de segurança|2
+Qual serviço da AWS é um banco de dados relacional gerenciado?|Amazon DynamoDB|Amazon RDS|Amazon S3|Amazon Redshift|1
+Qual serviço da AWS permite a execução de código sem a necessidade de provisionar ou gerenciar servidores?|Amazon EC2|AWS Lambda|Amazon S3|AWS CloudFormation|1
+Qual serviço da AWS é usado para entrega de conteúdo globalmente?|Amazon S3|Amazon CloudFront|Amazon RDS|AWS Lambda|1
+Qual serviço da AWS é usado para monitoramento de recursos e aplicativos?|AWS CloudTrail|Amazon CloudWatch|AWS IAM|AWS Config|1
+Qual serviço da AWS permite a criação de pipelines de entrega contínua?|AWS CodeDeploy|AWS CodePipeline|AWS CodeBuild|AWS CodeCommit|1
+Qual serviço da AWS é um banco de dados NoSQL gerenciado?|Amazon RDS|Amazon DynamoDB|Amazon S3|Amazon Redshift|1
+Qual serviço da AWS é usado para orquestrar contêineres?|Amazon ECS|Amazon RDS|AWS Lambda|Amazon S3|0
+Qual serviço da AWS é usado para gerenciar identidades e acessos?|Amazon VPC|AWS IAM|AWS CloudTrail|Amazon RDS|1
+Qual serviço da AWS permite a criação e gerenciamento de redes virtuais?|Amazon VPC|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS ajuda a automatizar a criação e gerenciamento de recursos da AWS?|AWS CloudFormation|AWS CloudTrail|Amazon CloudWatch|AWS Config|0
+Qual serviço da AWS permite a análise de big data?|Amazon RDS|AWS Lambda|Amazon EMR|Amazon S3|2
+Qual serviço da AWS permite a criação de APIs RESTful e WebSocket?|AWS AppSync|Amazon API Gateway|AWS Lambda|Amazon CloudFront|1
+Qual serviço da AWS permite a criação de aplicações móveis e web em tempo real?|AWS AppSync|Amazon S3|AWS Lambda|Amazon EC2|0
+Qual serviço da AWS permite a transferência segura de arquivos para a AWS?|AWS Snowball|AWS DataSync|AWS Transfer for SFTP|Amazon S3|2
+Qual serviço da AWS permite a hospedagem de sites estáticos?|Amazon EC2|Amazon S3|Amazon RDS|AWS Lambda|1
+Qual serviço da AWS permite a execução de contêineres sem gerenciar servidores?|AWS Lambda|Amazon ECS|AWS Fargate|Amazon EKS|2
+Qual serviço da AWS é usado para gerenciar chaves de criptografia?|AWS KMS|AWS IAM|Amazon RDS|AWS CloudHSM|0
+Qual serviço da AWS permite a implementação de redes privadas virtuais?|Amazon VPC|AWS IAM|Amazon S3|AWS Lambda|0
+Qual serviço da AWS permite a criação de dashboards personalizados para monitoramento?|Amazon CloudWatch|AWS Config|AWS CloudTrail|AWS IAM|0
+Qual serviço da AWS é um data warehouse escalável?|Amazon RDS|Amazon DynamoDB|Amazon Redshift|Amazon S3|2
+Qual serviço da AWS é usado para gerenciamento de chaves SSL/TLS?|AWS Certificate Manager|AWS IAM|Amazon CloudFront|AWS WAF|0
+Qual serviço da AWS permite a criação de cópias de segurança automáticas de bancos de dados?|Amazon RDS|Amazon S3|AWS Lambda|AWS Config|0
+Qual serviço da AWS é conhecido por sua capacidade de detecção de ameaças e monitoramento contínuo?|AWS Shield|AWS WAF|Amazon GuardDuty|AWS CloudTrail|2
+Qual serviço da AWS oferece uma forma de gerenciar e escalar contêineres usando Kubernetes?|Amazon ECS|AWS Fargate|AWS Lambda|Amazon EKS|3
+Qual serviço da AWS é usado para converter mídia em formatos apropriados para distribuição?|AWS Elemental MediaConvert|Amazon CloudFront|AWS Lambda|Amazon S3|0
+Qual serviço da AWS é usado para gerenciar contas de forma centralizada?|AWS Organizations|AWS IAM|Amazon VPC|AWS CloudTrail|0
+Qual serviço da AWS é usado para criar, gerenciar e entregar notificações push?|Amazon SNS|Amazon SQS|AWS Lambda|AWS Step Functions|0
+Qual serviço da AWS permite a distribuição de tráfego de rede entre várias instâncias?|Amazon Route 53|Elastic Load Balancing|Amazon CloudFront|AWS Direct Connect|1
+Qual serviço da AWS oferece uma interface gráfica para criar, monitorar e gerenciar recursos da AWS?|AWS Management Console|AWS CLI|AWS SDK|AWS CloudFormation|0
+Qual serviço da AWS é usado para o desenvolvimento, teste e execução de aplicações sem a necessidade de provisionar servidores?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS permite a transferência de grandes volumes de dados para a AWS de forma segura?|AWS Snowball|AWS DataSync|AWS Transfer for SFTP|Amazon S3|0
+Qual serviço da AWS fornece uma solução de DNS escalável e altamente disponível?|Amazon Route 53|AWS CloudFront|AWS Direct Connect|Amazon VPC|0
+Qual serviço da AWS é usado para fornecer autenticação multifator (MFA) para melhorar a segurança?|AWS IAM|AWS Shield|AWS Config|Amazon GuardDuty|0
+Qual serviço da AWS permite a criação de bots de chat para interação com clientes?|Amazon Lex|Amazon Polly|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS é usado para gerenciar e proteger APIs?|Amazon API Gateway|AWS WAF|AWS Shield|AWS CloudFormation|0
+Qual serviço da AWS é utilizado para realizar consultas SQL em dados armazenados no Amazon S3?|Amazon Redshift|Amazon RDS|Amazon Athena|Amazon EMR|2
+Qual serviço da AWS permite a coleta e visualização de logs de sistemas e aplicativos?|AWS CloudTrail|Amazon CloudWatch Logs|AWS IAM|AWS Config|1
+Qual serviço da AWS fornece uma solução de banco de dados gerenciado para documentos JSON?|Amazon RDS|Amazon DynamoDB|Amazon DocumentDB|Amazon S3|2
+Qual serviço da AWS oferece uma camada de cache na frente de bancos de dados para melhorar o desempenho?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon CloudFront|0
+Qual serviço da AWS permite a distribuição de conteúdo estático e dinâmico de maneira rápida e segura?|Amazon CloudFront|AWS Direct Connect|Amazon S3|Elastic Load Balancing|0
+Qual serviço da AWS permite a execução de contêineres gerenciados pelo Kubernetes?|Amazon ECS|AWS Fargate|Amazon EKS|AWS Lambda|2
+Qual serviço da AWS é usado para detectar padrões incomuns em contas da AWS?|AWS Shield|Amazon GuardDuty|AWS Config|Amazon Inspector|1
+Qual serviço da AWS permite a criação de sistemas de recomendação?|Amazon Kendra|Amazon Personalize|Amazon Transcribe|AWS Glue|1
+Qual serviço da AWS oferece uma solução de backup e recuperação?|AWS Backup|Amazon S3|AWS CloudTrail|Amazon RDS|0
+Qual serviço da AWS é usado para análise de logs em tempo real?|Amazon CloudWatch Logs|AWS CloudTrail|AWS Lambda|Amazon Kinesis|3
+Qual serviço da AWS permite a integração e entrega contínua para desenvolvimento de software?|AWS CodePipeline|AWS CodeDeploy|AWS CodeBuild|AWS CodeCommit|0
+Qual serviço da AWS permite a criação de aplicações de machine learning sem experiência prévia?|Amazon SageMaker|Amazon Lex|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS é uma plataforma de data lake e análise?|Amazon Redshift|AWS Lake Formation|Amazon Athena|AWS Glue|1
+Qual serviço da AWS oferece uma solução de email gerenciado para empresas?|Amazon SES|Amazon SNS|Amazon SQS|Amazon EFS|0
+Qual serviço da AWS permite a criação de redes privadas em uma região da AWS?|Amazon VPC|AWS IAM|AWS Direct Connect|AWS CloudFront|0
+Qual serviço da AWS é usado para gerenciamento de configuração e conformidade?|AWS Config|AWS CloudTrail|AWS Systems Manager|AWS CloudFormation|0
+Qual serviço da AWS permite a criação de pipelines de integração contínua (CI)?|AWS CodePipeline|AWS CodeDeploy|AWS CodeBuild|AWS CodeCommit|2
+Qual serviço da AWS é usado para migração de bancos de dados?|AWS DMS|Amazon RDS|AWS Glue|AWS DataSync|0
+Qual serviço da AWS oferece uma solução de armazenamento em rede escalável e elástico?|Amazon EBS|Amazon S3|Amazon EFS|AWS Storage Gateway|2
+Qual serviço da AWS permite a análise de dados de streaming em tempo real?|Amazon Kinesis Data Streams|AWS Glue|Amazon EMR|Amazon Athena|0
+Qual serviço da AWS permite a tradução de texto para diferentes idiomas?|Amazon Transcribe|Amazon Translate|Amazon Polly|Amazon Comprehend|1
+Qual serviço da AWS permite a criação de aplicações de chatbot?|Amazon Lex|Amazon Polly|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS permite a execução de contêineres Docker?|Amazon ECS|AWS Lambda|AWS Fargate|Amazon EKS|0
+Qual serviço da AWS oferece uma solução de gerenciamento de dispositivos IoT?|AWS IoT Core|AWS Greengrass|AWS IoT Analytics|AWS IoT Device Management|3
+Qual serviço da AWS é usado para transcrever arquivos de áudio em texto?|Amazon Translate|Amazon Polly|Amazon Transcribe|Amazon Comprehend|2
+Qual serviço da AWS é usado para construir pipelines de dados ETL?|AWS Glue|Amazon Kinesis|Amazon Athena|AWS DataSync|0
+Qual serviço da AWS oferece soluções de inteligência artificial para visão computacional?|Amazon Rekognition|Amazon Polly|Amazon Comprehend|Amazon Translate|0
+Qual serviço da AWS permite a criação de uma rede global privada?|AWS Direct Connect|Amazon VPC|AWS CloudFront|AWS Global Accelerator|3
+Qual serviço da AWS permite a detecção de vulnerabilidades de segurança em aplicações?|Amazon Inspector|AWS Shield|AWS WAF|Amazon GuardDuty|0
+Qual serviço da AWS oferece uma solução de cache gerenciado para Redis?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon CloudFront|0
+Qual serviço da AWS permite a coleta e análise de métricas de desempenho de aplicações?|Amazon CloudWatch|AWS CloudTrail|AWS Config|Amazon RDS|0
+Qual serviço da AWS é usado para gerenciamento de regras de segurança para acesso a aplicações web?|AWS WAF|AWS Shield|Amazon GuardDuty|AWS IAM|0
+Qual serviço da AWS oferece uma solução de detecção de fraudes em tempo real?|Amazon Fraud Detector|Amazon Macie|AWS Shield|Amazon GuardDuty|0
+Qual serviço da AWS permite a criação de clusters de big data usando Apache Hadoop?|Amazon EMR|AWS Glue|Amazon Athena|Amazon Redshift|0
+Qual serviço da AWS é usado para gerenciar inventário de recursos e conformidade?|AWS Config|AWS CloudTrail|AWS Systems Manager|AWS CloudFormation|0
+Qual serviço da AWS é usado para estabelecer uma conexão de rede dedicada entre sua rede local e a AWS?|AWS Direct Connect|AWS Snowball|AWS DataSync|AWS Transfer for SFTP|0
+Qual serviço da AWS permite a criação de sistemas de recomendação baseados em machine learning?|Amazon Personalize|Amazon SageMaker|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS oferece uma solução de banco de dados relacional escalável e totalmente gerenciado?|Amazon Aurora|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS é usado para rastrear e gerenciar inventário de recursos na nuvem?|AWS Config|AWS CloudTrail|AWS Systems Manager|AWS CloudFormation|0
+Qual serviço da AWS fornece uma solução de backup e restauração para volumes EBS?|AWS Backup|Amazon S3|AWS CloudTrail|AWS Storage Gateway|0
+Qual serviço da AWS permite a criação de fluxos de trabalho de dados ETL sem código?|AWS Glue|AWS Data Pipeline|Amazon Kinesis|Amazon Athena|0
+Qual serviço da AWS permite a análise de grandes volumes de dados armazenados no Amazon S3?|Amazon Athena|Amazon Redshift|Amazon EMR|Amazon RDS|0
+Qual serviço da AWS oferece uma solução para entrega de emails em massa?|Amazon SES|Amazon SNS|Amazon SQS|AWS Lambda|0
+Qual serviço da AWS permite a criação de aplicações móveis e web em tempo real sem gerenciar servidores?|AWS AppSync|Amazon S3|AWS Lambda|Amazon EC2|0
+Qual serviço da AWS oferece uma solução de análise de logs em tempo real?|Amazon Kinesis Data Firehose|Amazon CloudWatch Logs|AWS CloudTrail|AWS Glue|1
+Qual serviço da AWS é usado para análise de dados de streaming em tempo real?|Amazon Kinesis Data Analytics|AWS Glue|Amazon EMR|Amazon Athena|0
+Qual serviço da AWS oferece uma solução de aprendizado de máquina gerenciado, incluindo construção, treinamento e implantação de modelos?|Amazon SageMaker|Amazon Lex|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS permite a criação de arquiteturas de microserviços com API Gateway e Lambda?|AWS CloudFormation|AWS Lambda|Amazon API Gateway|Amazon ECS|2
+Qual serviço da AWS oferece uma solução de DNS escalável e altamente disponível?|Amazon Route 53|AWS CloudFront|AWS Direct Connect|Amazon VPC|0
+Qual serviço da AWS permite a criação de uma rede global privada?|AWS Direct Connect|Amazon VPC|AWS CloudFront|AWS Global Accelerator|3
+Qual serviço da AWS permite a execução de contêineres sem gerenciar servidores?|AWS Fargate|Amazon ECS|AWS Lambda|Amazon EKS|0
+Qual serviço da AWS oferece uma solução de monitoramento contínuo para detectar atividades suspeitas?|Amazon GuardDuty|AWS Shield|AWS WAF|Amazon Inspector|0
+Qual serviço da AWS permite a criação de aplicações de chat em tempo real?|Amazon Chime|Amazon SNS|AWS Lambda|Amazon Connect|0
+Qual serviço da AWS oferece uma solução de armazenamento em cache para melhorar o desempenho de aplicações?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon CloudFront|0
+Qual serviço da AWS é usado para gerenciar identidades e acessos com autenticação multifator?|AWS IAM|AWS Shield|AWS Config|Amazon GuardDuty|0
+Qual serviço da AWS permite a criação de dashboards personalizados para monitoramento de métricas?|Amazon CloudWatch|AWS Config|AWS CloudTrail|AWS IAM|0
+Qual serviço da AWS oferece uma solução de banco de dados NoSQL altamente escalável?|Amazon DynamoDB|Amazon RDS|Amazon Aurora|Amazon Redshift|0
+Qual serviço da AWS permite a criação e gerenciamento de redes virtuais na nuvem?|Amazon VPC|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a execução de tarefas de computação sem provisionar servidores?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de análise de dados de streaming em tempo real?|Amazon Kinesis Data Streams|AWS Glue|Amazon EMR|Amazon Athena|0
+Qual serviço da AWS permite a criação de pipelines de entrega contínua para desenvolvimento de software?|AWS CodePipeline|AWS CodeDeploy|AWS CodeBuild|AWS CodeCommit|0
+Qual serviço da AWS permite a coleta e visualização de logs de sistemas e aplicativos?|Amazon CloudWatch Logs|AWS CloudTrail|AWS IAM|AWS Config|0
+Qual serviço da AWS oferece uma solução de banco de dados gerenciado para documentos JSON?|Amazon DocumentDB|Amazon DynamoDB|Amazon RDS|Amazon S3|0
+Qual serviço da AWS oferece uma camada de cache na frente de bancos de dados para melhorar o desempenho?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon CloudFront|0
+Qual serviço da AWS permite a distribuição de conteúdo estático e dinâmico de maneira rápida e segura?|Amazon CloudFront|AWS Direct Connect|Amazon S3|Elastic Load Balancing|0
+Qual serviço da AWS é usado para provisionamento e gerenciamento de infraestrutura como código?|AWS CloudFormation|AWS Config|AWS CloudTrail|AWS Systems Manager|0
+Qual serviço da AWS permite a criação de aplicações baseadas em mensagens e eventos?|Amazon SNS|Amazon SQS|AWS Lambda|Amazon EventBridge|3
+Qual serviço da AWS oferece uma solução de gerenciamento de custos e utilização de recursos?|AWS Cost Explorer|AWS Budgets|AWS Pricing Calculator|AWS Organizations|0
+Qual serviço da AWS permite a criação de fluxos de trabalho serverless que orquestram múltiplos serviços da AWS?|AWS Step Functions|AWS Lambda|Amazon EventBridge|Amazon SNS|0
+Qual serviço da AWS oferece uma solução de gerenciamento de certificados SSL/TLS?|AWS Certificate Manager|AWS IAM|Amazon CloudFront|AWS WAF|0
+Qual serviço da AWS permite a transferência segura de dados entre dispositivos locais e a AWS?|AWS DataSync|AWS Snowball|AWS Transfer for SFTP|Amazon S3|0
+Qual serviço da AWS é usado para migração de bancos de dados para a nuvem?|AWS DMS|Amazon RDS|AWS Glue|AWS Data Pipeline|0
+Qual serviço da AWS é utilizado para criar redes privadas virtuais?|Amazon VPC|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a análise de dados em tempo real usando SQL?|Amazon Kinesis Data Analytics|Amazon Athena|AWS Glue|Amazon Redshift|0
+Qual serviço da AWS fornece uma solução de machine learning para análise de sentimentos?|Amazon Comprehend|Amazon SageMaker|Amazon Rekognition|Amazon Polly|0
+Qual serviço da AWS permite a interação com clientes através de chatbots?|Amazon Lex|Amazon Polly|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS oferece uma solução de segurança para proteger aplicações web contra exploits comuns?|AWS WAF|AWS Shield|Amazon GuardDuty|AWS IAM|0
+Qual serviço da AWS permite a automação de tarefas de TI e gerenciamento de recursos?|AWS Systems Manager|AWS Config|AWS CloudTrail|AWS CloudFormation|0
+Qual serviço da AWS oferece uma solução de banco de dados em memória para latência ultra baixa?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a execução de consultas SQL diretamente em dados armazenados no Amazon S3?|Amazon Athena|Amazon Redshift|Amazon EMR|Amazon RDS|0
+Qual serviço da AWS oferece uma solução de armazenamento de arquivos altamente disponível e escalável?|Amazon EFS|Amazon S3|Amazon EBS|AWS Storage Gateway|1
+Qual serviço da AWS é utilizado para criar e gerenciar redes de entrega de conteúdo (CDN)?|Amazon CloudFront|AWS WAF|Amazon S3|AWS Direct Connect|0
+Qual serviço da AWS permite a implementação de bancos de dados relacionais escaláveis e de alta performance?|Amazon Aurora|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS oferece uma solução de controle de acesso granular para recursos na nuvem?|AWS IAM|AWS Shield|AWS Config|Amazon GuardDuty|0
+Qual serviço da AWS é utilizado para criar e gerenciar clusters de Kubernetes?|Amazon EKS|Amazon ECS|AWS Fargate|AWS Lambda|0
+Qual serviço da AWS oferece uma solução de análise de big data com Apache Spark?|Amazon EMR|AWS Glue|Amazon Athena|Amazon Redshift|0
+Qual serviço da AWS permite a integração de aplicativos com serviços de mensagens?|Amazon SQS|Amazon SNS|Amazon MQ|Amazon EventBridge|2
+Qual serviço da AWS é utilizado para monitoramento de segurança e conformidade de contas da AWS?|Amazon GuardDuty|AWS Shield|AWS Config|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de gerenciamento de identidades e acessos para aplicações web e móveis?|Amazon Cognito|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a criação de serviços RESTful APIs escaláveis e seguras?|Amazon API Gateway|AWS Lambda|Amazon CloudFront|AWS WAF|0
+Qual serviço da AWS oferece uma solução de análise de logs centralizada?|Amazon CloudWatch Logs|AWS CloudTrail|AWS Config|AWS Systems Manager|0
+Qual serviço da AWS permite a execução de tarefas de computação em resposta a eventos?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de banco de dados relacional gerenciado para alta disponibilidade?|Amazon Aurora|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a criação de pipelines de dados ETL serverless?|AWS Glue|Amazon Kinesis|Amazon EMR|Amazon Redshift|0
+Qual serviço da AWS oferece uma solução de gerenciamento de custos e utilização de recursos?|AWS Cost Explorer|AWS Budgets|AWS Pricing Calculator|AWS Organizations|0
+Qual serviço da AWS permite a criação de fluxos de trabalho serverless que orquestram múltiplos serviços da AWS?|AWS Step Functions|AWS Lambda|Amazon EventBridge|Amazon SNS|0
+Qual serviço da AWS oferece uma solução de gerenciamento de certificados SSL/TLS?|AWS Certificate Manager|AWS IAM|Amazon CloudFront|AWS WAF|0
+Qual serviço da AWS permite a transferência segura de dados entre dispositivos locais e a AWS?|AWS DataSync|AWS Snowball|AWS Transfer for SFTP|Amazon S3|0
+Qual serviço da AWS é usado para migração de bancos de dados para a nuvem?|AWS DMS|Amazon RDS|AWS Glue|AWS Data Pipeline|0
+Qual serviço da AWS é utilizado para criar redes privadas virtuais?|Amazon VPC|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a análise de dados em tempo real usando SQL?|Amazon Kinesis Data Analytics|Amazon Athena|AWS Glue|Amazon Redshift|0
+Qual serviço da AWS fornece uma solução de machine learning para análise de sentimentos?|Amazon Comprehend|Amazon SageMaker|Amazon Rekognition|Amazon Polly|0
+Qual serviço da AWS permite a interação com clientes através de chatbots?|Amazon Lex|Amazon Polly|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS oferece uma solução de segurança para proteger aplicações web contra exploits comuns?|AWS WAF|AWS Shield|Amazon GuardDuty|AWS IAM|0
+Qual serviço da AWS permite a automação de tarefas de TI e gerenciamento de recursos?|AWS Systems Manager|AWS Config|AWS CloudTrail|AWS CloudFormation|0
+Qual serviço da AWS oferece uma solução de banco de dados em memória para latência ultra baixa?|Amazon ElastiCache|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a execução de consultas SQL diretamente em dados armazenados no Amazon S3?|Amazon Athena|Amazon Redshift|Amazon EMR|Amazon RDS|0
+Qual serviço da AWS oferece uma solução de armazenamento de arquivos altamente disponível e escalável?|Amazon EFS|Amazon S3|Amazon EBS|AWS Storage Gateway|1
+Qual serviço da AWS é utilizado para criar e gerenciar redes de entrega de conteúdo (CDN)?|Amazon CloudFront|AWS WAF|Amazon S3|AWS Direct Connect|0
+Qual serviço da AWS permite a implementação de bancos de dados relacionais escaláveis e de alta performance?|Amazon Aurora|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS oferece uma solução de controle de acesso granular para recursos na nuvem?|AWS IAM|AWS Shield|AWS Config|Amazon GuardDuty|0
+Qual serviço da AWS é utilizado para criar e gerenciar clusters de Kubernetes?|Amazon EKS|Amazon ECS|AWS Fargate|AWS Lambda|0
+Qual serviço da AWS oferece uma solução de análise de big data com Apache Spark?|Amazon EMR|AWS Glue|Amazon Athena|Amazon Redshift|0
+Qual serviço da AWS permite a integração de aplicativos com serviços de mensagens?|Amazon SQS|Amazon SNS|Amazon MQ|Amazon EventBridge|2
+Qual serviço da AWS é utilizado para monitoramento de segurança e conformidade de contas da AWS?|Amazon GuardDuty|AWS Shield|AWS Config|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de gerenciamento de identidades e acessos para aplicações web e móveis?|Amazon Cognito|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a criação de serviços RESTful APIs escaláveis e seguras?|Amazon API Gateway|AWS Lambda|Amazon CloudFront|AWS WAF|0
+Qual serviço da AWS oferece uma solução de análise de logs centralizada?|Amazon CloudWatch Logs|AWS CloudTrail|AWS Config|AWS Systems Manager|0
+Qual serviço da AWS permite a execução de tarefas de computação em resposta a eventos?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de banco de dados relacional gerenciado para alta disponibilidade?|Amazon Aurora|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a criação de pipelines de dados ETL serverless?|AWS Glue|Amazon Kinesis|Amazon EMR|Amazon Redshift|0
+Qual serviço da AWS oferece uma solução de análise de dados em tempo real?|Amazon Kinesis Data Streams|AWS Glue|Amazon EMR|Amazon Athena|0
+Qual serviço da AWS é utilizado para criar e gerenciar redes VPN seguras?|AWS VPN|Amazon VPC|AWS Direct Connect|AWS CloudFront|0
+Qual serviço da AWS permite a transferência de grandes volumes de dados para a AWS de forma física?|AWS Snowball|AWS DataSync|AWS Transfer for SFTP|Amazon S3|0
+Qual serviço da AWS oferece uma solução de banco de dados escalável para dados em grafos?|Amazon Neptune|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a análise de dados de IoT em tempo real?|AWS IoT Analytics|AWS IoT Core|AWS Greengrass|AWS IoT Device Management|0
+Qual serviço da AWS é utilizado para criar uma rede de entrega de conteúdo (CDN) global?|Amazon CloudFront|AWS Global Accelerator|AWS Direct Connect|Amazon Route 53|0
+Qual serviço da AWS oferece uma solução de gerenciamento de conformidade e auditoria?|AWS Config|AWS CloudTrail|AWS Systems Manager|AWS CloudFormation|0
+Qual serviço da AWS permite a execução de contêineres Docker sem gerenciar servidores?|AWS Fargate|Amazon ECS|AWS Lambda|Amazon EKS|0
+Qual serviço da AWS oferece uma solução de banco de dados gerenciado para dados de grafos?|Amazon Neptune|Amazon RDS|Amazon DynamoDB|Amazon Redshift|0
+Qual serviço da AWS permite a criação de aplicações móveis e web com APIs em tempo real?|AWS AppSync|Amazon API Gateway|AWS Lambda|Amazon EC2|0
+Qual serviço da AWS permite a transferência de grandes volumes de dados usando rede dedicada?|AWS Direct Connect|AWS Snowball|AWS DataSync|AWS Transfer for SFTP|0
+Qual serviço da AWS oferece uma solução de segurança para aplicações web e proteção contra DDoS?|AWS WAF|AWS Shield|Amazon GuardDuty|AWS IAM|1
+Qual serviço da AWS permite a criação de aplicações de aprendizado de máquina sem experiência prévia em ML?|Amazon SageMaker|Amazon Lex|Amazon Comprehend|Amazon Rekognition|0
+Qual serviço da AWS oferece uma solução de análise de dados em escala petabyte?|Amazon Redshift|Amazon RDS|Amazon DynamoDB|Amazon S3|0
+Qual serviço da AWS permite a criação de aplicativos serverless com integração a outros serviços da AWS?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de gerenciamento de inventário de recursos de TI?|AWS Systems Manager|AWS Config|AWS CloudTrail|AWS CloudFormation|0
+Qual serviço da AWS permite a coleta e análise de dados de sensores IoT?|AWS IoT Core|AWS IoT Analytics|AWS Greengrass|AWS IoT Device Management|1
+Qual serviço da AWS oferece uma solução de armazenamento de objetos altamente disponível e escalável?|Amazon S3|Amazon EFS|Amazon EBS|AWS Storage Gateway|0
+Qual serviço da AWS permite a criação de consultas SQL em dados não estruturados?|Amazon Athena|Amazon Redshift|Amazon EMR|Amazon RDS|0
+Qual serviço da AWS oferece uma solução de aprendizado de máquina para análise de imagens e vídeos?|Amazon Rekognition|Amazon Polly|Amazon Comprehend|Amazon Translate|0
+Qual serviço da AWS permite a criação de pipelines de entrega contínua (CI/CD)?|AWS CodePipeline|AWS CodeDeploy|AWS CodeBuild|AWS CodeCommit|0
+Qual serviço da AWS oferece uma solução de gerenciamento de identidades e acessos centralizado?|AWS IAM|AWS Organizations|AWS CloudTrail|AWS Config|1
+Qual serviço da AWS permite a criação de redes privadas virtuais (VPN)?|AWS VPN|Amazon VPC|AWS Direct Connect|AWS CloudFront|1
+Qual serviço da AWS oferece uma solução de monitoramento de segurança e conformidade de contas da AWS?|Amazon GuardDuty|AWS Shield|AWS Config|AWS CloudTrail|0
+Qual serviço da AWS permite a execução de contêineres gerenciados pelo Kubernetes?|Amazon EKS|Amazon ECS|AWS Fargate|AWS Lambda|0
+Qual serviço da AWS oferece uma solução de análise de logs centralizada?|Amazon CloudWatch Logs|AWS CloudTrail|AWS Config|AWS Systems Manager|0
+Qual serviço da AWS permite a coleta e visualização de métricas de desempenho de aplicações?|Amazon CloudWatch|AWS CloudTrail|AWS Config|Amazon RDS|0
+Qual serviço da AWS oferece uma solução de banco de dados NoSQL altamente escalável?|Amazon DynamoDB|Amazon RDS|Amazon Aurora|Amazon Redshift|0
+Qual serviço da AWS permite a criação e gerenciamento de redes virtuais na nuvem?|Amazon VPC|AWS IAM|Amazon S3|AWS CloudFront|0
+Qual serviço da AWS permite a execução de tarefas de computação sem provisionar servidores?|AWS Lambda|Amazon EC2|Amazon RDS|AWS CloudTrail|0
+Qual serviço da AWS oferece uma solução de análise de dados de streaming em tempo real?|Amazon Kinesis Data Streams|AWS Glue|Amazon EMR|Amazon|0
